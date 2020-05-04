@@ -4,3 +4,5 @@
 * Darkside
 * El Joker
 * El Juguetero
+* Brainiac
+* Siniestro
